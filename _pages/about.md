@@ -33,7 +33,6 @@ redirect_from:
 - 2022.06－今：智能商务研究中心 副主任
 
 # 论文成果
-## 以中
 - Xianchao Zhang(supervisor), Jie Mu, Xiaotong Zhang, et al. Deep anomaly detection with self-supervised learning and adversarial training. Pattern Recognition, 2022, 112:108234. JCR Q1, CCF B.
 - Xianchao Zhang(supervisor), Jie Mu, Han Liu, et al. Graph clustering with graph capsule network. Neural Computation, 2022, 34(5): 1256-1287. JCR Q1, CCF B.
 - Xianchao Zhang(supervisor), Jie Mu, Han Liu, et al. Graphnet: graph clustering with deep neural networks. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2021, 3800-3804. CCF B.
@@ -44,24 +43,30 @@ redirect_from:
 - Yi Cui, Xianchao Zhang(supervisor), Linlin Zong, Jie Mu. Maintaining consistency with constraints: a constrained deep clustering method. Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2021, 219-230. CCF C.
 - Zihan Liao, Wenxin Liang, Han Liu, Jie Mu, Xianchao Zhang(supervisor). Self-supervised graph representation learning with variational inference. Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2021, 116-127. CCF C.
 - Xianchao Zhang(supervisor), Xiaorui Tang, Linlin Zong, Xinyue Liu, Jie Mu. Deep multimodal clustering with cross reconstruction. Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2020, 12084: 305. CCF C.
-## 在投
-- Jie Mu, Feiping Nie, Wei Wang, et al. MOCOLNet: A Momentum Contrastive Learning Network for Multimodal Aspect-Level Sentiment Analysis. IEEE Transactions on Knowledge and Data Engineering. (Minor revision) JCR Q1, CCF A.
-- Wei Wang, Mengzhu Wang, Jie Mu(Corresponding author), et al. Optimal Graph Learning based Label Propagation for Cross-Domain Image Classification. IEEE Transactions on Image Processing. (Under review) JCR Q1, CCF A.
-- Jie Mu, Feiping Nie, Zhizheng Sun, et al. MIGNI: Modal Interactive Graph Network with Mutual Information for Multimodal Sentiment Analysis. IEEE Transactions on Neural Networks and learning systems. (Under review) JCR Q1, CCF B.
+
+# 参与科研项目
+- 国家自然科学基金项目：面向视觉认知的脑启发式多源数据深度学习理论与方法（61632019）, 2017.01 - 2021.12.
+- 国家自然科学基金项目：基于可能世界的不确定数据聚类（61876028）, 2019.01 - 2023.12.
+- 国家自然科学基金项目：部分相关的多任务数据聚类（61972065）, 2020.01 - 2023.12.
+- 国家自然科学基金项目：部分对应的多视角聚类研究（61806034）, 2019.01 - 2021.12.
+- 国家社会科学基金项目：《数智驱动的线上服务补救研究》（23BJY012）,2023.01 - 2026.12.
+
 
 # 专利软著
 - 张宪超，慕杰，刘晗，梁文新，刘馨月，李远刚 一种基于深度聚类的对抗异常检测系统，专利申请号：202210942026.2.
+- 慕杰，徐健，张婧，蒋馥阳，孙治政 基于动量对比学习的多模态细粒度情感分析方法，申请专利号：2023113190874.
 
 # 教学成果
 - 指导教师，基于知识图谱的在线评论细粒度情感分析研究，国家级大学生创新创业训练计划项目，2022
 - 指导教师，基于在线评论的新冠疫情前后酒店属性对顾客满意度影响的研究，省级大学生创新创业训练计划项目，2022
 - 指导教师，数据驱动的酒店品牌形象量化及可视化分析，辽宁省普通高等学校本科大学生“中软国际-卓越杯”大数据挑战赛一等奖、优秀指导教师奖，2022
+- 指导教师，基于主题提取对酒店在线评论的情感分析，辽宁省普通高等学校本科大学生“中软国际-卓越杯”大数据挑战赛一等奖、优秀指导教师奖，2023
 
 # 实习经历
-2021.06-2021.10
-部门：阿里集团-阿里云智能事业群-天猫精灵事业部-人工智能部
-项目经历：提出一种无监督神经网络（BCRNet），该网络用来学习在线教育系统中的多模态习题的表征，并将学到的表征用于下游子任务，例如拍照搜题，习题内容分类
-论文：在完成项目的同时发表论文BCRNet: bidirectional contrastive representation network for deep multimodal learning of exercise representations in online education systems. Neurocomputing
+- 2021.06-2021.10
+- 部门：阿里集团-阿里云智能事业群-天猫精灵事业部-人工智能部
+- 项目经历：提出一种无监督神经网络（BCRNet），该网络用来学习在线教育系统中的多模态习题的表征，并将学到的表征用于下游子任务，例如拍照搜题，习题内容分类
+- 论文：在完成项目的同时发表论文BCRNet: bidirectional contrastive representation network for deep multimodal learning of exercise representations in online education systems. Neurocomputing
 
 # 前期合作基础
 - 与香港理工大学李恒云老师、梅小伟老师合作，共同撰写论文Cross-modal Interactive Learning Network for Multimodal Sentiment Analysis: A Novel Deep Learning Method and A Theory-driven Explanation.
