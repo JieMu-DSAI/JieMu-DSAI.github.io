@@ -21,8 +21,8 @@ redirect_from:
 
 <span class='anchor' id='-教育经历'></span>
 # 教育经历
-- 博士：2018.09－2022.06. 大连理工大学软件学院，软件工程专业； 导师：张宪超
-- 硕士：2016.09－2018.06. 大连理工大学软件学院，软件工程专业； 导师：刘馨月
+- 博士：2018.09－2022.06. 大连理工大学软件学院，软件工程专业；
+- 硕士：2016.09－2018.06. 大连理工大学软件学院，软件工程专业；
 - 学士：2012.09－2016.06. 中北大学，软件工程专业
   
 <span class='anchor' id='-工作经历'></span>
@@ -66,10 +66,10 @@ redirect_from:
 <span class='anchor' id='-实习经历'></span>
 # 实习经历
 - 2021.06-2021.10
--- 部门：阿里集团-阿里云智能事业群-天猫精灵事业部-人工智能部
--- 项目经历：提出一种无监督神经网络（BCRNet），该网络用来学习在线教育系统中的多模态习题的表征，并将学到的表征用于下游子任务，例如拍照搜题，习题内容分类
--- 论文：在完成项目的同时发表论文BCRNet: bidirectional contrastive representation network for deep multimodal learning of exercise representations in online education systems. Neurocomputing
+- 部门：阿里集团-阿里云智能事业群-天猫精灵事业部-人工智能部
+- 项目经历：提出一种无监督神经网络（BCRNet），该网络用来学习在线教育系统中的多模态习题的表征，并将学到的表征用于下游子任务，例如拍照搜题，习题内容分类
+- 论文：BCRNet: bidirectional contrastive representation network for deep multimodal learning of exercise representations in online education systems. Neurocomputing
 
-<span class='anchor' id='-合作成果'></span>
-# 合作成果
-- 与香港理工大学合作，共同撰写论文Cross-modal Interactive Learning Network for Multimodal Sentiment Analysis: A Novel Deep Learning Method and A Theory-driven Explanation.
+<span class='anchor' id='-合作'></span>
+# 合作
+- 与香港理工大学保持长期友好合作合作，不仅在学术研究上取得了显著的成果，也在学生交流、教育资源共享等方面建立了紧密的联系。
