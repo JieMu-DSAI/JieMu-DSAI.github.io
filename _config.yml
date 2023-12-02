@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "慕杰的个人主页"
-description              : "硕士生导师，讲师 邮件: Jiemu@dufe.edu.cn  github: https://github.com/JieMu-DSAI"
-description              : "邮件: Jiemu@dufe.edu.cn"
+description              : "硕士生导师，讲师"
 repository               : "JieMu-DSAI/JieMu-DSAI.github.io"
 google_scholar_stats_use_cdn : False
 
